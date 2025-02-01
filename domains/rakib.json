@@ -1,12 +1,11 @@
 {
-    "description": "For my personal portfolio",
-    "repo": "https://github.comrakibul-islam-hasib/rakibul-islam-hasib.github.io",
+    "description": "for my portfolio website",
+    "repo": "https://github.com/rakibmia7254/portfolio",
     "owner": {
-        "username": "rakibul-islam-hasib",
-        "email": "boraborhasib@gmail.com",
-        "twitter": "netkinghasib"
+        "username": "rakibmia7254",
+        "email": "rakib4ggp@gmail.com"
     },
     "record": {
-        "CNAME": "rakibul-islam-hasib.github.io"
+        "CNAME": "rakibmia7254.github.io"
     }
-} 
+}
